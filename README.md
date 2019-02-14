@@ -2,6 +2,12 @@
 
 最后编辑时间：2018年05月11日
 
+## Wiki Version
+
+点击 [Wiki](https://github.com/AFutureD/ZJU_CS_PEE/wiki) 可更方便查看。
+
+---
+
 ## 目录
 
 + [前言](#前言)
