@@ -1,12 +1,12 @@
 # 浙江大学 计算机考研 经验收集
 
-最后编辑时间：2019年03月19日
+最后编辑时间：2019年03月28日
 
 TODO:
 
 - [ ] 更多2019年经验贴
 - [ ] 各个知识点参考书目
-
+- [ ] 添加是否是科班的 Tag
 
 ## 目录
 
@@ -25,6 +25,7 @@ TODO:
 
 项目中经验贴的收集会注明作者、链接、来源。如果你想把你的经验分享给大家，请Pull Request 或者提交 issue。
 
+**Notice:** 此项目有 Wiki，将会同步更新。
 
 ## 经验帖
 
@@ -36,14 +37,91 @@ TODO:
 
 * 作者：汪神 </br>
 链接：[2019机械跨考浙大计算机总结](https://zhuanlan.zhihu.com/p/59658921) </br>
-来源：知乎
+来源：知乎专栏
 
 * 作者：pq </br>
-链接：[提问：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/599703020) </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/599703020) </br>
 来源：知乎
 
 * 作者：jf学姐 </br>
 链接：[19浙大计算机考研经验贴](https://blog.csdn.net/JiaFenGuNiang/article/details/88672608) </br>
+来源：知乎
+
+* 作者：nana大佬 </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/626840900) </br>
+来源：知乎
+
+* 作者：状元学习大佬 </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/627039082) </br>
+来源：知乎
+
+* 作者：function大佬 </br>
+链接：[二战浙大CS经验帖](http://www.cqupeng.com/archives/200/200?tdsourcetag=s_pcqq_aiomsg) </br>
+来源：CQUPENG.COM
+
+* 作者：日沉云起 </br>
+链接：[2019浙大计算机考研经验贴](https://blog.csdn.net/richenyunqi/article/details/88685299) </br>
+来源：CSDN
+
+* 作者：zq大佬 </br>
+链接：[19浙大计算机考研经验分享](https://www.bilibili.com/read/cv2289379) </br>
+来源：Bilibili
+
+* 作者：空白 </br>
+链接：[19双非跨考浙大计算机经验贴](https://blog.csdn.net/weixin_40688413/article/details/88691199) </br>
+来源：CSDN
+
+* 作者：bourbon经验贴 </br>
+链接：[普通人跨考浙大计算机的经验贴（2019）](https://blog.csdn.net/Bourbon_Whiskey_/article/details/88691404) </br>
+来源：CSDN
+
+* 作者：lambda大佬 </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/609474638) </br>
+来源：知乎
+
+* 作者：泰勒大佬 </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/628026752) </br>
+来源：知乎
+
+* 作者：yh大佬 </br>
+链接：[2019浙大CS考研经验贴](https://www.jianshu.com/p/b8b5df950afc) </br>
+来源：简书
+
+* 作者：19-Roux_en_Y </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/628638218) </br>
+来源：知乎
+
+* 作者：warren </br>
+链接：[2019 浙大计算机考研 经验和教训](https://zhuanlan.zhihu.com/p/59998281) </br>
+来源：知乎专栏
+
+* 作者：lmz </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/629938432) </br>
+来源：知乎
+
+
+* 作者：proudc </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/629849776) </br>
+来源：知乎
+
+* 作者：zf </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/630350457) </br>
+来源：知乎
+
+* 作者：yyl </br>
+链接：[2019浙大计算机考研_数学系跨考经验贴](https://shimo.im/docs/GjyHwGti38AFHlY7) </br>
+来源：石墨文档
+
+* 作者：玉米大佬 </br>
+链接：[写作考研，读作朝圣](https://rheabubbles.github.io/before-zju/) </br>
+来源：rheabubbles.github.io
+
+* 作者：学姐a </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/634001045) </br>
+来源：知乎
+
+* 作者：R佬 </br>
+链接：[问题：2020考研，想考浙大计算机，该如何准备呢？](https://www.zhihu.com/question/294947018/answer/634755503) </br>
 来源：知乎
 
 ### 2018年
